@@ -1,0 +1,28 @@
+.btn{
+	cursor: pointer;
+}
+.content{
+	display: table;
+	width: 50%;
+	padding: 30px;
+	margin: 10% auto 0;
+	box-shadow: 0 0 10px 0 rgba(50,50,50,0.75);
+	text-align: center;
+}
+.article{
+	display: block;
+	width: 50%;
+	padding: 10px;
+	margin: 20px auto 30px;
+	box-shadow: 0 0 10px 0 rgba(50,50,50,0.75);
+	text-align: left;
+}
+
+.btn-primary{
+	color: #fff;
+	background-color: #07c1b0;
+	border-color: #03a898;
+}
+.btn-primary:hover{
+	background-color: #0b8a7e;
+}
